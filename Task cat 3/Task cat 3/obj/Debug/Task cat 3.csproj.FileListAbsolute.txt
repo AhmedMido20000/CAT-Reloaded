@@ -1,7 +1,0 @@
-C:\Users\ahmed maged\source\repos\Task cat 3\Task cat 3\bin\Debug\Task cat 3.exe.config
-C:\Users\ahmed maged\source\repos\Task cat 3\Task cat 3\bin\Debug\Task cat 3.exe
-C:\Users\ahmed maged\source\repos\Task cat 3\Task cat 3\bin\Debug\Task cat 3.pdb
-C:\Users\ahmed maged\source\repos\Task cat 3\Task cat 3\obj\Debug\Task cat 3.csproj.AssemblyReference.cache
-C:\Users\ahmed maged\source\repos\Task cat 3\Task cat 3\obj\Debug\Task cat 3.csproj.CoreCompileInputs.cache
-C:\Users\ahmed maged\source\repos\Task cat 3\Task cat 3\obj\Debug\Task cat 3.exe
-C:\Users\ahmed maged\source\repos\Task cat 3\Task cat 3\obj\Debug\Task cat 3.pdb
